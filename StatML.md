@@ -74,7 +74,7 @@ This list will cover the statistical ML topics that might be useful to anyone wh
 
 * Linear Regression - loss function calculation and derivations
     * MLE vs MAP (Different estimation strategies)
-    * How MAP brings regularization in linear regression loss
+    * [How MAP brings regularization in linear regression loss](https://math.stackexchange.com/questions/2917109/map-solution-for-linear-regression-what-is-a-gaussian-prior)
     * [Convexity](https://stats.stackexchange.com/questions/160179/do-we-need-gradient-descent-to-find-the-coefficients-of-a-linear-regression-mode/164164%23164164), solving the loss directly 
     * Kernel regression
 
