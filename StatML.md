@@ -53,7 +53,7 @@ This list will cover the statistical ML topics that might be useful to anyone wh
         * Monte carlo methods
         * Giibs Sampling
     * [Expectation-Minimization](http://cs229.stanford.edu/notes/cs229-notes7b.pdf)
-        * [More Math on EM and use in Hidden markov models](www.cs.cmu.edu/~aarti/Class/10701/readings/gentle_tut_HMM.pdf)
+        * [More Math on EM and use in Hidden markov models](http://www.cs.cmu.edu/~aarti/Class/10701/readings/gentle_tut_HMM.pdf)
     * Gaussian Mixture models
     * KMeans - loss and [code from scratch](http://www.datasciencecourse.org/notes/unsupervised/)
     * KNNSs and how they are different from KMeans
