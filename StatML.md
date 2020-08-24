@@ -1,7 +1,3 @@
-Hey,
-
-This list will cover the statistical ML topics that might be useful to anyone who's prepping for ML software positions. The depth in which one needs to study depends on multiple factors including the company, team in the company and the person him/herself.
-
 * [Tree Based ML Algorithms](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
  
     * What is entropy? Information gain (IG) concepts
