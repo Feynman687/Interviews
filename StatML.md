@@ -63,11 +63,6 @@ This list will cover the statistical ML topics that might be useful to anyone wh
     * AUC, area under ROC curve
     * What the area signifies? use-case based questions
 
-* Different Sampling Techniques
-    * Gibbs
-    * Reservoir Sampling
-    * Importance Sampling
-
 * SVMs
     * Hinge loss
     * Code implementation
